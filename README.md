@@ -7,14 +7,14 @@ NIM		: 312210345
 ## link youtube
 
 ## Ketentuan program
-![img 0](uas smt 1/ss_ketentuan.png)
+![img 0](ss/ss_ketentuan.png)
 
 ## penjelasan program
 program kali ini kita membuat menu inputan mahasiswa dengan menggunakan package sesuai dengan ketentuan diatas.
 
 ## daftar_nilai.py
 * Pertama saya membuat file daftar_nilai.py yang terletak pada folder model dan berisi beberapa fungsi yaitu tambah_data, ubah_data, hapus_data, dan cari_data dan berisi database berupa dictionary
-Berikut Code Program ```Python daftar_nilai.py``` :
+Berikut Code Program ```daftar_nilai.py``` :
 
 ```Python
 database = {}
@@ -40,7 +40,7 @@ def ubah_data(nama):
 ```
 ## input_nilai.py
 * Selanjutnya saya membuat fungsi untuk meminta user memasukan data / input yang berada pada file input_nilai.py yang berada pada modul view dan input user di gabung dengan fungsi yang sudah saya buat sebelumnya pada daftar_nilai.py untuk memasukan inputan user ke database(dictionary)
-Brikut Code Program ```Python input_nilai.py``` :
+Brikut Code Program ```input_nilai.py``` :
 
 ```Python
 from model.daftar_nilai import tambah_data, hapus_data, ubah_data
@@ -146,21 +146,21 @@ while True :
 ## Hasil Program
 ### Tambah Data
 * Berikut dokumentasi untuk hasil program pada menu `tambah data`
-![img 1](uas smt 1/ss1.png)
-![img 2](uas smt 1/ss2.png)
+![img 1](ss/ss1.png)
+![img 2](ss/ss2.png)
 ### Tampilkan Semua Data
 Berikut dokumentasi untuk hasil program `tampilkan semua data`
-![img 3](uas smt 1/ss3.png)
+![img 3](ss/ss3.png)
 ### Cari Data
 Berikut dokumentasi untuk hasil program `cari data`
-![img 4](uas smt 1/ss4.png)
+![img 4](ss/ss4.png)
 ### Hapus Data
 Berikut dokumentasi untuk hasil program `hapus data`
-![img 5](uas smt 1/ss5.png)
+![img 5](ss/ss5.png)
 ### Ubah Data
 Berikut dokumentasi untuk hasil program `ubah data`
-![img 6](uas smt 1/ss6.png)
-![img 7](uas smt 1/ss6(2).png)
+![img 6](ss/ss6.png)
+![img 7](ss/ss6(2).png)
 ### keluar
 program keluar
-![img 8](uas smt 1/ss7.png)
+![img 8](ss/ss7.png)
