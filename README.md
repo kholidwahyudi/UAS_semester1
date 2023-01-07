@@ -162,5 +162,6 @@ Berikut dokumentasi untuk hasil program `ubah data`
 ![img 6](ss/ss6.png)
 ![img 7](ss/ss6(2).png)
 ### keluar
-program keluar
+
 ![img 8](ss/ss7.png)
+####Terimakasih
