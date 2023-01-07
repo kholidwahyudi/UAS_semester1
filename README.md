@@ -164,4 +164,4 @@ Berikut dokumentasi untuk hasil program `ubah data`
 ### keluar
 
 ![img 8](ss/ss7.png)
-####Terimakasih
+### Terimakasih
