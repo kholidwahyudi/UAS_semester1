@@ -1,8 +1,8 @@
 # UAS_semester1
 
-Nama	: Kholid Wahyudi
-Kelas	: TI.22.B2
-NIM		: 312210345
+* Nama  	: Kholid Wahyudi
+* Kelas	    : TI.22.B2
+* NIM		: 312210345
 
 ## link youtube
 
