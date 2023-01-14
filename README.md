@@ -7,6 +7,9 @@
 ## link youtube
 [your link here](https://youtu.be/mDSSR2Nynuw)
 
+## File PDF
+[file pdf](https://github.com/kholidwahyudi/UAS_semester1/blob/main/file_PDF/Project%20UAS%20Bahasa%20Pemrograman.pdf)
+
 ## Ketentuan program
 ![img 0](ss/ss_ketentuan.png)
 
